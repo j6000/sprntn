@@ -75,8 +75,6 @@ body {
 }
 ::-moz-selection {
     background: var(--select-highlight-color) !important;
-    background: rgb(3,0,41);
-background: linear-gradient(0deg, rgba(3,0,41,1) 0%, rgba(55,0,93,1) 100%);
 }
 ::selection {
     background: var(--select-highlight-color) !important;
