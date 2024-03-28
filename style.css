@@ -86,9 +86,10 @@ h2.notion-heading:not(.toggle) {
 h1.notion-heading strong,
 strong h1.notion-heading {
     margin-bottom: 12px !important;
-    letter-spacing: -4px !important;
+    letter-spacing: -2px !important;
     line-height: 1 !important;
     font-size: clamp(2.6rem, 6vw, 5rem) !important;
+    font-weight:400 !important;
 }
 h2.notion-heading * {
     line-height: 1 !important;
