@@ -104,11 +104,16 @@ h3.notion-heading * {
     opacity: var(--header-title-opacity) !important;
 }
 .super-navbar {
+    width: 90% !important;
+    margin-top: 20px !important;
+    margin-right: auto !important;
+    margin-left: auto !important;
     backdrop-filter: blur(8px) !important;
-    border-bottom: 1px solid var(--color-border-default) !important;
+    border-radius:30px !important;
+    border: 1px solid var(--color-border-default) !important;
 }
 .super-navbar__menu {
-    background: var(--color-bg-default) !important;
+    /** background: var(--color-bg-default) !important; **/
 }
 .super-navbar__item-list {
     gap: 12px !important;
