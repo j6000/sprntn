@@ -68,10 +68,10 @@ h2.notion-heading * {
     --color-bg-gray-light: #101010 !important;
     --color-pill-default: #101010 !important;
     --card-content-bg-color: rgba(0, 0, 0, 0.6) !important;
-    --color-border-default: rgba(255, 255, 255, 0.12) !important;
+    --color-border-default: rgba(255 255 255, 0.22) !important;
     --navbar-background-color: rgba(25, 25, 25, 0.8) !important;
     --color-code-bg: var(--color-bg-gray-light) !important;
-    --color-ui-hover-bg: #202020 !important;
+    --color-ui-hover-bg: rgba(0,0,0, 0.2) !important;
 }
 .theme-light {
     --card-content-bg-color: rgba(255, 255, 255, 0.6) !important;
