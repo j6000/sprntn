@@ -382,6 +382,9 @@ top:-115px;
 .notion-property__date .date {
     opacity: 0.6;
 }
+.notion-property__title__icon-wrapper {
+display: none !important;
+}
 .super-navbar__cta {
     padding: 8px 12px !important;
     border-radius: var(--cta-border-radii) !important;
