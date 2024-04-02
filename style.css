@@ -148,6 +148,9 @@ h3.notion-heading * {
     letter-spacing: -1.6px !important;
     opacity: var(--header-title-opacity) !important;
 }
+.notion-header__cover {
+top:-115px;
+}
 .super-navbar {
     width: 90% !important;
     margin-top: 40px !important;
